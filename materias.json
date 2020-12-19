@@ -1,0 +1,46 @@
+[
+    {
+        "materia": "4° Teoria de las organizaciones",
+        "estado": "terminado"
+    },
+    {
+        "materia": "5°Micro y Macroeconomia",
+        "estado": "terminado"
+    },
+    {
+        "materia": "5° Derecho",
+        "estado": "terminado"
+    },
+    {
+        "materia": "5° SIC",
+        "estado": "terminado"
+    },
+    {
+        "materia": "6° Proyecto organizacional (SIC)",
+        "estado": "pendiente"
+    },
+    {
+        "materia": "6° Trabajo y ciudadania",
+        "estado": "pendiente"
+    },
+    {
+        "materia": "6°Economia politica",
+        "estado": "terminado"
+    },
+    {
+        "materia": "6° Literatura",
+        "estado": "pendiente"
+    },
+    {
+        "materia": "6° Educacion Fisica",
+        "estado": "terminado"
+    },
+    {
+        "materia": "6° Filosofia",
+        "estado": "pendiente"
+    },
+    {
+        "materia": "5° Gestion organizacional",
+        "estado": "terminado"
+    }
+]
